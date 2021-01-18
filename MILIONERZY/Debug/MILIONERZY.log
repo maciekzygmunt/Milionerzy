@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+D:\VsProjects\MILIONERZY\MILIONERZY\Źródło.cpp(15,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MILIONERZY.vcxproj -> D:\VsProjects\MILIONERZY\Debug\MILIONERZY.exe
